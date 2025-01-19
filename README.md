@@ -1,4 +1,4 @@
-Olá, neste código estou aprendendo a mexer em funções com parâmetros em JS.
+Olá, neste código estou aprendendo a mexer em funções com parâmetros em JS e Listas.
 
 Obs: HTML e CSS não foram realizados por mim e sim pela Alura. 
 
